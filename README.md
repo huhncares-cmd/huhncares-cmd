@@ -1,4 +1,4 @@
-# root@huhncares-cmd: ~$ cat info.md
+# root@huhncares-cmd: ~$ cat README.md
 
 ## About
 
@@ -6,7 +6,7 @@ Hello internet, I'm huhncares (he/him) - a python developer from Germany. I also
 
 Beside my programming hobbies I also like photography, especially photography of planes, called plane spotting.
 
-This site should just give you a basic overview over my skills, my hobbies and me as a person.
+This file should just give you a basic overview over my skills, my hobbies and me as a person.
 
 ## Skills
 
